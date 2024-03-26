@@ -1,0 +1,112 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif; /* Step 4: Set font family for the entire page */
+    font-size: 21px; /* Step 5: Set body font size */
+    margin: 30px; /* Remove default margin */
+}
+
+.firstBox {
+    background-color:  #252525;
+    padding: 0px ;
+   
+  
+   
+     /* Add spacing on top and bottom */
+   
+}
+
+
+.about-me {
+    background-color: #C4C4C4;
+    padding: 100px 0; /* Add spacing on top and bottom */
+    
+}
+
+.articles {
+    background-color: #252525;
+    padding: 100px ; /* Add spacing on top and bottom */
+    color: #EAF9FF;
+}
+
+h1 {
+    font-size: 30px; /* Step 6: Set h1 font size */
+   font-weight: bold;
+}
+#std{
+    font-size: 50px;
+    border-top: 2px solid #050505;
+    border-width: 1px;
+    margin-left: 100px;
+    margin-right: 100px
+ 
+    
+}
+.web{
+    border-bottom: 12px solid #050505;
+    border-width: 1px;
+    margin-left: 100px;
+    margin-right: 100px
+}
+
+
+
+h2 {
+    font-size: 60px; /* Step 7: Set h2 font size */
+    font-weight: bold;
+    color: #99D930;
+    border-bottom: 2px solid #C4C4C4;
+
+   
+}
+
+h3 {
+    font-size: 36px; /* Step 8: Set h3 font size */
+}
+
+.small {
+    font-size: 16px; /* Step 9: Set small font size */
+    color: #99D930;
+}
+
+.wrapper {  
+    width: 570px;
+    margin: 0 auto;
+}
+.imag1{
+    height: 350px;
+    width: 330px;
+   margin-bottom: 50px;
+
+    border-radius: 50%;
+}
+
+a {
+    color: #99D930; /* Step 10: Set link color */
+    text-decoration: none; /* Step 11: Remove underline from links */
+    transition: color 0.3s ease; /* Step 12: Add smooth transition */
+}
+
+a:hover {
+    color: #131313; /* Step 13: Set link hover color */
+}
+.np{
+    color: #EAF9FF;
+}
+.btn{
+    text-align: center;
+    background-color: #99D930;
+    height: 40px;
+    width: 130px;
+    color: #252525;
+    border: none;
+    font-weight: 900;
+   
+}
+.btn:hover{
+background-color: #252525;
+color: #EAF9FF;
+}
+#art{
+    border-top: 2px solid #C4C4C4;
+    border-width: 1px; 
+}
